@@ -9,3 +9,13 @@
  em strong{
      color: red;
  }
+
+
+ .container{
+   width: 940px;
+margin: auto;
+ }
+
+ header div.container{
+   display: flex;
+ }
